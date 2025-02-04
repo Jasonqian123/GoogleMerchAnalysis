@@ -21,7 +21,7 @@ The data used in this project comes from the [Google Analytics demo account](htt
 
 ## **Analysis and Insights**
 ### **1. Acquisition Analysis**
-![Acquisition Analysis Screenshot](images/acquisition_analysis.png)
+![Acquisition Analysis Screenshot](https://github.com/Jasonqian123/GoogleMerchAnalysis/blob/main/traffic%20acquisition.png?raw=true)
 
 #### **Insights**
 - **High Traffic and Revenue Contribution:**<br>
