@@ -1,16 +1,13 @@
 # Google Merchandise Analysis
-This project is an in-depth analysis of Google Merchandise data, aimed at providing actionable recommendations to improve e-commerce performance and strategy.
-
-![Google Merchandise Analysis Overview](https://github.com/Jasonqian123/GoogleMerchAnalysis/blob/main/googlemerch.png?raw=true)
-
-
-## **Project Overview**
-The project analyzes key performance metrics and user behavior for the Google Merchandise Store. By focusing on acquisition, engagement, funnel visualization, and path analysis, It aims to provide strategies to increase user retention and conversions.
+## **Overview**
+The project analyzes key performance metrics and user behavior on the Google Merchandise Store. By focusing on acquisition, engagement, funnel visualization, and path analysis, It aims to provide strategies to increase user retention and conversions.
 
 - **Acquisition: Identify which channels drive the most traffic and conversions**
 - **Engagement: Understand how people behave on the site and which page visitors land on most.**
 - **Funnel Visualization: Map out the stages of the customer journey to pinpoint where users drop off before completing purchases.**
 - **Path Exploration: Explore common navigation paths to detect patterns and potential bottlenecks in the website's user experience.**
+
+![Google Merchandise Analysis Overview](https://github.com/Jasonqian123/GoogleMerchAnalysis/blob/main/googlemerch.png?raw=true)
 
 
 ## **Data Source**
