@@ -1,4 +1,4 @@
-# Google Merchandise Analysis
+# Google Merchandise Store Analysis
 ## **Overview**
 This project analyzes key performance metrics and user behavior on the Google Merchandise Store. By focusing on acquisition, engagement, funnel visualization, and path analysis, It aims to provide strategies to increase user retention and conversions.
 
