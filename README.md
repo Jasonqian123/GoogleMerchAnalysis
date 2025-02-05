@@ -39,7 +39,7 @@ The ***2025 Chinese New Year (January 28)*** likely influenced customer behavior
 Category pages, such as ***bags (66.15%)***, ***apparel (66.09%)***, and ***men’s apparel (63.66%)***, demonstrate ***consistent engagement rates***. Additionally, ***brand-related pages*** (e.g., YouTube and Android) attract meaningful traffic and interaction. This indicates that customers browsing the online merchandise store tend to gravitate toward ***specific categories*** and ***well-known brand pages***. Strategies like improving internal search, product filtering, and showcasing popular categories/brands on the homepage could enhance user journeys and sales.
 
 ### **3. Funnel Visualization**
-![Engagement Analysis Screenshot](https://github.com/Jasonqian123/GoogleMerchAnalysis/blob/main/landingpage.png?raw=true)
+![Engagement Analysis Screenshot](https://github.com/Jasonqian123/GoogleMerchAnalysis/blob/main/Funnel.png?raw=true)
 #### **Insights**
 - **High Abandonment Rates:**<br>
 There is a significant drop-off at both the ***homepage (93% abandonment)*** and ***Add to Cart (66.3% abandonment)*** stages. This indicates the need to ***optimize product discovery on the homepage*** and ***improve the shopping cart experience*** by addressing potential friction points such as navigation, unexpected fees, and cart usability.
