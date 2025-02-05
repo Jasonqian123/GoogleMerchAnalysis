@@ -29,11 +29,20 @@ The ***November 2024 email campaign*** and ***two referral sources*** (sites.goo
 Besides direct and organic traffic, paid search, referral, and email campaigns collectively contribute ***86.58%*** of the total revenue. This highlights their critical role in driving conversions and underscores the importance of optimizing these channels to maximize profitability.
 
 ### **2. Engagement Analysis**
-![Engagement Analysis Screenshot](https://github.com/Jasonqian123/GoogleMerchAnalysis/blob/main/traffic%20acquisition.png?raw=true)
+![Engagement Analysis Screenshot](https://github.com/Jasonqian123/GoogleMerchAnalysis/blob/main/landingpage.png?raw=true)
 #### **Insights**
 - **Homepage Performance:**<br>
 The ***homepage*** receives the ***most visits*** and generates the ***highest revenue ($78,823.60)***, accounting for a significant share of overall traffic and conversions. This highlights the critical importance of an effective homepage design. Improving user experience through better navigation, featured products, and personalized recommendations could further enhance engagement and conversions.
 - **Impact of Seasonal Events (Chinese New Year):**<br>
 The ***2025 Chinese New Year (January 28)*** likely influenced customer behavior. Pages for the ***Year of the Snake Notebook (93.13% engagement rate)*** and ***Android Plushie (75.36% engagement rate)*** show ***exceptionally high interaction*** and strong revenue performance. This suggests that ***seasonal festivals and themed products*** significantly impact purchase decisions. Leveraging seasonal marketing strategies and promotions can further drive product interest and sales during these periods.
-- **High Engagement on Category and Brand Pages**<br>
+- **High Engagement on Category and Brand Pages:**<br>
 Category pages, such as ***bags (66.15%)***, ***apparel (66.09%)***, and ***men’s apparel (63.66%)***, demonstrate ***consistent engagement rates***. Additionally, ***brand-related pages*** (e.g., YouTube and Android) attract meaningful traffic and interaction. This indicates that customers browsing the online merchandise store tend to gravitate toward ***specific categories*** and ***well-known brand pages***. Strategies like improving internal search, product filtering, and showcasing popular categories/brands on the homepage could enhance user journeys and sales.
+
+### **3. Funnel Visualization**
+![Engagement Analysis Screenshot](https://github.com/Jasonqian123/GoogleMerchAnalysis/blob/main/landingpage.png?raw=true)
+#### **Insights**
+- **High Abandonment Rates:**<br>
+There is a significant drop-off at both the ***homepage (93% abandonment)*** and ***Add to Cart (66.3% abandonment)*** stages. This indicates the need to ***optimize product discovery on the homepage*** and ***improve the shopping cart experience*** by addressing potential friction points such as navigation, unexpected fees, and cart usability.
+- **Device-Specific Performance:**<br>
+Most operations, including purchases, are completed on ***desktop devices***, which also have a ***higher completion rate*** compared to mobile and tablet users. This suggests that the ***desktop is the primary purchase platform*** for users. Therefore, efforts to ***improve the user experience on desktop should be prioritized***, while mobile and tablet experiences can be enhanced to reduce abandonment and capture additional conversions.
+
