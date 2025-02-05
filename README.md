@@ -58,16 +58,13 @@ Due to the high abandonment rate at the "Add to Cart" stage, a path exploration 
 
 ## **Recommendations**
 
-![Engagement Analysis Screenshot](https://github.com/Jasonqian123/GoogleMerchAnalysis/blob/main/path%20exploration.png?raw=true)
-![Engagement Analysis Screenshot](https://github.com/Jasonqian123/GoogleMerchAnalysis/blob/main/path%20exploration.png?raw=true)
-![Engagement Analysis Screenshot](https://github.com/Jasonqian123/GoogleMerchAnalysis/blob/main/path%20exploration.png?raw=true)
-![Engagement Analysis Screenshot](https://github.com/Jasonqian123/GoogleMerchAnalysis/blob/main/path%20exploration.png?raw=true)
-
 1. **Focus on High-Engagement Channels**  
    Allocate more resources to **Google paid search**, **referral traffic**, and **email marketing**, as these channels have demonstrated high engagement rates.
    - Optimize **paid search** campaigns by refining keywords, ad copy, and landing pages to improve click-through and conversion rates.
    - For **referral traffic**, strengthen partnerships with high-performing referrers (e.g., `art-analytics.appspot.com` and `sites.google.com`) by collaborating on promotions or exclusive offers.
    - Expand **email marketing**, particularly around high-interest events and products, using personalized promotions and retargeting campaigns for users who engaged but did not complete a purchase.
+
+![Engagement Analysis Screenshot](https://github.com/Jasonqian123/GoogleMerchAnalysis/blob/main/Rec1.JPG?raw=true)
 
 2. **Capitalize on Seasonal Opportunities**  
    Seasonal events such as the **Chinese Spring Festival (January)**, **Valentine's Day (February)**, and **Easter (April)** can significantly influence customer behavior.
@@ -75,14 +72,20 @@ Due to the high abandonment rate at the "Add to Cart" stage, a path exploration 
    - Offer **seasonal promotions** (e.g., discounts, free shipping, or bundled offers) to boost sales.
    - Strengthen **SEO efforts** by creating **seasonal landing pages** and **keyword-optimized content** to improve search visibility, ensuring that seasonal products appear prominently in organic search results.
 
+![Engagement Analysis Screenshot](https://github.com/Jasonqian123/GoogleMerchAnalysis/blob/main/Rec2.JPG?raw=true)
+
 3. **Optimize Homepage Design**  
    The homepage is the most visited page and contributes the most to total revenue, so optimizing its design is crucial.
    - Highlight **popular products** such as the **Android mascot** and **Super G Timbuk2 Backpack** in prominent areas of the homepage.
    - Implement **personalized recommendations** and **featured product sections** based on user behavior.
    - Use **A/B testing** to evaluate the effectiveness of different **banners**, **calls-to-action (CTAs)**, and **navigation elements**.
 
+![Engagement Analysis Screenshot](https://github.com/Jasonqian123/GoogleMerchAnalysis/blob/main/Rec3.JPG?raw=true)
+
 4. **Optimize the Add to Cart Experience**  
    A significant number of users abandon the process at the **Add to Cart** stage, highlighting the need to reduce friction.
    - Streamline the **cart experience** by simplifying navigation, reducing unnecessary steps, and clearly displaying product and pricing details.
    - Address potential barriers such as **hidden fees**, **shipping costs**, and **complex checkout forms** by being transparent and offering options like **free shipping** or **guest checkout**.
    - Implement **cart abandonment strategies**, including **retargeting ads** and **follow-up emails** offering promotions to re-engage users.
+
+![Engagement Analysis Screenshot](https://github.com/Jasonqian123/GoogleMerchAnalysis/blob/main/Rec4.JPG?raw=true)
