@@ -30,6 +30,7 @@ Besides direct and organic traffic, paid search, referral, and email campaigns c
 
 ### **2. Engagement Analysis**
 ![Engagement Analysis Screenshot](https://github.com/Jasonqian123/GoogleMerchAnalysis/blob/main/landingpage.png?raw=true)
+
 #### **Insights**
 - **Homepage Performance:**<br>
 The ***homepage*** receives the ***most visits*** and generates the ***highest revenue ($78,823.60)***, accounting for a significant share of overall traffic and conversions. This highlights the critical importance of an effective homepage design. Improving user experience through better navigation, featured products, and personalized recommendations could further enhance engagement and conversions.
@@ -40,9 +41,16 @@ Category pages, such as ***bags (66.15%)***, ***apparel (66.09%)***, and ***menâ
 
 ### **3. Funnel Visualization**
 ![Engagement Analysis Screenshot](https://github.com/Jasonqian123/GoogleMerchAnalysis/blob/main/Funnel.png?raw=true)
+
 #### **Insights**
 - **High Abandonment Rates:**<br>
 There is a significant drop-off at both the ***homepage (93% abandonment)*** and ***Add to Cart (66.3% abandonment)*** stages. This indicates the need to ***optimize product discovery on the homepage*** and ***improve the shopping cart experience*** by addressing potential friction points such as navigation, unexpected fees, and cart usability.
 - **Device-Specific Performance:**<br>
 Most operations, including purchases, are completed on ***desktop devices***, which also have a ***higher completion rate*** compared to mobile and tablet users. This suggests that the ***desktop is the primary purchase platform*** for users. Therefore, efforts to ***improve the user experience on desktop should be prioritized***, while mobile and tablet experiences can be enhanced to reduce abandonment and capture additional conversions.
 
+### **3. Path Exploration**
+![Engagement Analysis Screenshot](https://github.com/Jasonqian123/GoogleMerchAnalysis/blob/main/Funnel.png?raw=true)
+
+#### **Insights**
+- **High Interest in the Super G Timbuk2 Spire Jet Backpack**<br>
+Due to the high abandonment rate at the "Add to Cart" stage, a path exploration was conducted to understand user behavior leading up to this event. The analysis revealed that the ***Super G Timbuk2 Spire Jet Backpack*** is a key product driving significant engagement, with many users viewing and adding it to their carts. This indicates a strong interest in the product.
