@@ -48,7 +48,7 @@ There is a significant drop-off at both the ***homepage (93% abandonment)*** and
 - **Device-Specific Performance:**<br>
 Most operations, including purchases, are completed on ***desktop devices***, which also have a ***higher completion rate*** compared to mobile and tablet users. This suggests that the ***desktop is the primary purchase platform*** for users. Therefore, efforts to ***improve the user experience on desktop should be prioritized***, while mobile and tablet experiences can be enhanced to reduce abandonment and capture additional conversions.
 
-### **3. Path Exploration**
+### **4. Path Exploration**
 ![Engagement Analysis Screenshot](https://github.com/Jasonqian123/GoogleMerchAnalysis/blob/main/path%20exploration.png?raw=true)
 
 #### **Insights**
